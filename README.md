@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Elastic Stack using docker
+- 🤔 I’m looking for help with RabbitMQ
+- 💬 Ask me about C#, Productivity Tips, Notion
+- 📫 How to reach me: [@alanhamlett](https://twitter.com/MihowBogucki) on Twitter
+
+[![wakatime](https://wakatime.com/badge/user/04b0b065-196b-4a53-b934-3baa2e6c48d7.svg)](https://wakatime.com/@04b0b065-196b-4a53-b934-3baa2e6c48d7)
+
+
 <!--
 **MihowBogucki/MihowBogucki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
