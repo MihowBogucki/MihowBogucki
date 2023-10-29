@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Elastic Stack using docker
-- 🤔 I’m looking for help with RabbitMQ
+- 🔭 I’m currently building a data platform with GCP products (Dataflow, Composer, Big Query, Cloud SQL)
+- 🌱 I’m currently learning Python and leading a team/projects
 - 💬 Ask me about C#, Productivity Tips, Notion
 - 📫 How to reach me: [@MihowBogucki](https://twitter.com/MihowBogucki) on Twitter
 
