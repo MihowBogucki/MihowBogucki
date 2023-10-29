@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building a data platform with GCP products (Dataflow, Composer, Big Query, Cloud SQL)
-- 🌱 I’m currently learning Python and leading a team/projects
+- 🔭 I’m currently leading a team building a data platform with GCP products (Dataflow, Composer, Big Query, Cloud SQL)
+- 🌱 I’m currently learning Python
 - 💬 Ask me about C#, Productivity Tips, Notion
 - 📫 How to reach me: [@MihowBogucki](https://twitter.com/MihowBogucki) on Twitter
 
